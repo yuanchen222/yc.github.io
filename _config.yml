@@ -17,9 +17,9 @@ title: 袁晨的博客
 description: > # this means to ignore newlines until "baseurl:"
   基于 jekyll 的 Github Pages 个人博客网站，一个交流日常的地方
 baseurl: ""
-url: "https://yuanchen222.github.io/yc.github.io/"
+url: https://yuanchen222.github.io/
 permalink: /:year/:month/:day/:title
-repository: https://yuanchen222.github.io/yc.github.io/
+repository: https://yuanchen222.github.io/
 paginate: 5
 
 # MatJek specific configurations
