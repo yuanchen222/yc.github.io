@@ -1,0 +1,32 @@
+---
+title: 个人简历
+layout: post
+categories: JavaScript
+tags: 个人简历
+excerpt: 个人简历
+<img src="https://s2.ax1x.com/2019/12/24/lC2me1.png" alt="lC2me1.png" border="0" />
+
+| 非变异数组方法   | 变异数组方法
+|------------------|-------------
+| .join()          | .push()
+| .concat()        | .pop()
+| .slice()         | .shift()
+| .from()          | .reverse()
+| .map()           | .sort()
+| .filter()        | .splice()
+| .every()         | .fill()
+| .find()          |
+| .findIndex()     |
+| .flat()          |
+| .flatMap()       |
+| .forEach()       |
+| .includes()      |
+| .indexOf()       |
+| .lastIndexOf()   |
+| .reduce()        |
+| .reduceRight()   |
+| .some()          |
+| .toString()      |
+| .toLocalString() |
+
+可以看出改变原数组的变异数组方法只有少数几个，非变异的过多可能记不住，因此可以选择记少不记多的原则，记住那几个特殊的变异方法的，其余的便可归类于非变异的了；
